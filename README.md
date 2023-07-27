@@ -13,8 +13,11 @@ To prepare for training, we performed image preprocessing and data augmentation.
 Firstly, we manually cropped each image to remove irrelevant content while ensuring that the breast lesion region was preserved. Secondly, we resized the cropped images to 224x224 pixels without altering the aspect ratio. 
 
 Breast ultrasound images with extraneous areas removed are shown below：
+
 High Tils image:
-![image1](https://github.com/wrc990616/MCRUNet/blob/main/pic/)
+
+![image1](https://github.com/wrc990616/MCRUNet/blob/main/pic/1H_del_black/high_tils.pdf)
+
 ## Model
 ![image](https://github.com/wrc990616/MCRUNet/blob/main/pic/Figure%202.jpg)
 
