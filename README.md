@@ -35,4 +35,9 @@ The model is trained for 80 epochs.
 
 Run `train.py`
 
+In the training, you will see the predicted results of val image.
+
+## Acknowledgments
+Thanks to the open access BUSI dataset for providing ultrasound data and annotation of breast nodules.
+
 
