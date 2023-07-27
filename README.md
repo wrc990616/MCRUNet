@@ -24,7 +24,15 @@ Low Tils image:
 
 
 ## Model
+My model (MCRUNet) is in the `my_model.py` file.
+
+MCRUNet architecture overview.
 ![image](https://github.com/wrc990616/MCRUNet/blob/main/pic/Figure%202.jpg)
 
+
 ## Training
+The model is trained for 80 epochs.
+
+Run `train.py`
+
 
