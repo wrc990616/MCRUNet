@@ -16,7 +16,7 @@ Breast ultrasound images with extraneous areas removed are shown below：
 
 High Tils image:
 
-![image1](https://github.com/wrc990616/MCRUNet/blob/main/pic/1H_del_black/high_tils.pdf)
+![image1](https://github.com/wrc990616/MCRUNet/blob/main/pic/1H_del_black/high_tils.jpg)
 
 ## Model
 ![image](https://github.com/wrc990616/MCRUNet/blob/main/pic/Figure%202.jpg)
